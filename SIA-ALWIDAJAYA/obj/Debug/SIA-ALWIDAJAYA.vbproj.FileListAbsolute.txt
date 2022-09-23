@@ -46,11 +46,9 @@ F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmMasterUser.
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmMasterPeriode.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmPerkiraan.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmPosting.resources
-F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmTransaksiSaloBlnLalu.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubJurnalAJP.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubNoPerkiraanAJP.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubNoPerkiraanJurnalUmum.resources
-F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubNoPerkiraan_SaloAwal.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubJurnalUmum.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.Resources.resources
 F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA-ALWIDAJAYA.vbproj.GenerateResource.Cache
@@ -112,3 +110,7 @@ E:\Git\sia-aja\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmTransaksiSaldo
 E:\Git\sia-aja\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubNoPerkiraan_SaldoAwal.resources
 E:\Git\sia-aja\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmRptBukuBesarTotal.resources
 E:\Git\sia-aja\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmRptCetakAkun.resources
+F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmRptBukuBesarTotal.resources
+F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmRptCetakAkun.resources
+F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmTransaksiSaldoBlnLalu.resources
+F:\Git\kopi-panas\sia-aja\SIA-ALWIDAJAYA\obj\Debug\SIA_ALWIDAJAYA.frmSubNoPerkiraan_SaldoAwal.resources

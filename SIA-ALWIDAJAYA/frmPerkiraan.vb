@@ -158,6 +158,7 @@ Public Class frmPerkiraan
         Buka()
         Try
             If cmdEdit.Text = "Edit" Then
+
                 cmdEdit.Text = "Update"
                 cmdTambah.Enabled = False
                 cmdSimpan.Enabled = False
@@ -268,32 +269,33 @@ Public Class frmPerkiraan
 
     Private Sub ListView_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListView.SelectedIndexChanged
         txtNoPerkiraan.Enabled = False
+        txtNamaPerkiraan.Enabled = True
         AmbilDataDariList()
     End Sub
 
     Private Sub cboGroup_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cboGroup.SelectedIndexChanged
         If Me.cboGroup.Text = "1-AKTIVA" Then
-            txtNoPerkiraan.Text = 1
+            'txtNoPerkiraan.Text = 1
             txtNoPerkiraan.Enabled = True
             txtNoPerkiraan.Focus()
         ElseIf Me.cboGroup.Text = "2-HUTANG" Then
-            txtNoPerkiraan.Text = 2
+            'txtNoPerkiraan.Text = 2
             txtNoPerkiraan.Enabled = True
             txtNoPerkiraan.Focus()
         ElseIf Me.cboGroup.Text = "3-MODAL" Then
-            txtNoPerkiraan.Text = 3
+            'txtNoPerkiraan.Text = 3
             txtNoPerkiraan.Enabled = True
             txtNoPerkiraan.Focus()
         ElseIf Me.cboGroup.Text = "4-PENDAPATAN" Then
-            txtNoPerkiraan.Text = 4
+            'txtNoPerkiraan.Text = 4
             txtNoPerkiraan.Enabled = True
             txtNoPerkiraan.Focus()
         ElseIf Me.cboGroup.Text = "5-PEMBELIAN" Then
-            txtNoPerkiraan.Text = 5
+            'txtNoPerkiraan.Text = 5
             txtNoPerkiraan.Enabled = True
             txtNoPerkiraan.Focus()
         ElseIf Me.cboGroup.Text = "6-BIAYA" Then
-            txtNoPerkiraan.Text = 6
+            'txtNoPerkiraan.Text = 6
             txtNoPerkiraan.Enabled = True
             txtNoPerkiraan.Focus()
         End If
